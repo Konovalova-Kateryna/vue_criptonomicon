@@ -2,7 +2,7 @@
   "name": "criptonomicon_1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Konovalova-Kateryna/criptonomicon-app.git",
+  "homepage": "https://github.com/Konovalova-Kateryna/vue_criptonomicon.git",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
